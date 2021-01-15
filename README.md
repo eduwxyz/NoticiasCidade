@@ -1,3 +1,6 @@
+# Visualização
+![image](https://github.com/DevShy/NoticiasCidade/blob/main/noticiasCidade.png)
+
 # Layout Noticias Cidade
 
 Projeto criado na tentativa de fazer um layout em html para um site jornalístico para uma cidade!
